@@ -15,4 +15,4 @@ The analysis of the ride sharing data shows that:
  
 
 ## Challenge Summary
-The changes that were visable in the updated school district analysis were when looking at the district summary and school summary. In each of theis data frames, when looking at the unformatted data you can see the difference in tenths of percents. The reading and math scores in each of these data frames does down by the a few tenths of a percent.
+The main recommendation is to find ways to increase the amount of drivers in the rural cities. The more drivers we can get the more rides that can happen, which can potentially lower the average fare per ride. If that happens more people might be willing to spend on a ride. The number of total rides being larger than the number of total drivers in the Suburban area is a market that can be tapped into. Being able to provide the ride service for people coming into the city for a night out for dinner or sporting event/show can help increase the total fares.
